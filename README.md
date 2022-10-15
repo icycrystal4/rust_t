@@ -1,1 +1,1 @@
-[![Build Status](https://app.travis-ci.com/icycrystal4/rust_t.svg?branch=main)](https://app.travis-ci.com/icycrystal4/rust_t)
+![Build Status](https://github.com/icycrystal4/rust_t/actions/workflows/rust.yml/badge.svg?branch=ci)
