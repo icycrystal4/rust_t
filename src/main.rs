@@ -1,3 +1,3 @@
 fn main() {
-    println!("Hello, world! ==> ci ==> 1");
+    println!("Hello, world! => {}", git_version::git_version!());
 }
