@@ -1,4 +1,3 @@
 fn main() {
-    println!("Hello, world! ==> ci");
-    panic!("failed");
+    println!("Hello, world! ==> {}", git_version::git_version!());
 }
